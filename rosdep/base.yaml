@@ -9010,6 +9010,6 @@ zziplib:
   opensuse: [zziplib-devel]
   rhel: [zziplib-devel]
   ubuntu: [libzzip-dev]
-ASOA:
+asoa:
   debian: [https://git.rwth-aachen.de/api/v4/projects/36297/packages/generic/asoa-amd64/0.5.0/asoa_core-0.5.0.deb?access_token=Z5mT6CKpyn9xJXtynsRU, https://git.rwth-aachen.de/api/v4/projects/36297/packages/generic/asoa-amd64/0.5.0/asoa_orchestrator-0.5.0.deb?access_token=Z5mT6CKpyn9xJXtynsRU, https://git.rwth-aachen.de/api/v4/projects/36297/packages/generic/asoa-amd64/0.5.0/asoa_utilities-0.5.0.deb?access_token=Z5mT6CKpyn9xJXtynsRU, https://git.rwth-aachen.de/api/v4/projects/36297/packages/generic/asoa-amd64/0.5.0/asoa_security-0.5.0.deb?access_token=Z5mT6CKpyn9xJXtynsRU]
   
